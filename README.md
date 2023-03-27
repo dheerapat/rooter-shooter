@@ -1,4 +1,6 @@
-# rooter_shooter
+# Rooter Shooter
+
+>Simple space shooting game for Global Game Jam 2023
 
 Clone a repository and serve it via http protocol (eg. using serve package)  
 Open html file straight from the file protocol will result in error
